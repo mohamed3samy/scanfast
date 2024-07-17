@@ -7,7 +7,6 @@ This is a simple QR code scanner application built using React Native and Vision
 - Requests and handles camera permissions.
 - Uses the device's back camera for scanning QR codes.
 - Displays the scanned QR code result in real-time.
-- Provides a user-friendly UI with clear instructions.
 
 ## Installation
 
